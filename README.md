@@ -29,7 +29,7 @@ A Genetic Algorithm is used to determine a good solution of Portfolio Optimizati
 
 <h3>Data description</h3>
 
-The input data is stored in .xlsч file as follows:
+The input data is stored in .xlsx file as follows:
 
 <img align="center" width="65%" height="65%" src="https://github.com/radubuzatu/Portfolio-Optimization/blob/main/img/data.png">
 
