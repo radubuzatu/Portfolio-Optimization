@@ -33,7 +33,7 @@ The input data is stored in .xlsx file as follows:
 
 <img align="center" width="65%" height="65%" src="https://github.com/radubuzatu/Portfolio-Optimization/blob/main/img/data.png">
 
-The input data can be easily imported into the program by using the menu.
+The input data can be easily imported into the program by using the program menu.
 
 <h3>An example of the program</h3>
 
