@@ -18,10 +18,10 @@ $y_i$ - the expected income of an asset $i$.
 <h4>Objective function</h4>
 The following objective function is maximized:
 
-$$\dfrac{\sum\limits_{i=1}^{n}a_{i}y_{i}x_{i}}{\sum\limits_{i=1}^{n}a_{i}x_{i}}-\dfrac{2|V-U|-(V-U)}{10U}$$
+$$\dfrac{\sum\limits_{i=1}^{n}a_{i}y_{i}x_{i}}{\sum\limits_{i=1}^{n}a_{i}x_{i}}-\dfrac{2|V-U|-(V-U)}{10U},$$
 
-Here, $\dfrac{\sum\limits_{i=1}^{n}a_{i}y_{i}x_{i}}{\sum\limits_{i=1}^{n}a_{i}x_{i}}$ is the profitability of the obtained portfolio and 
-$\dfrac{2|V-U|-(V-U)}{10U}$ is the fine for exceeding the math model.
+where $\dfrac{\sum\limits_{i=1}^{n}a_{i}y_{i}x_{i}}{\sum\limits_{i=1}^{n}a_{i}x_{i}}$ is the profitability of the obtained portfolio, 
+$\dfrac{2|V-U|-(V-U)}{10U}$ is the fine for exceeding the math model, and $V$ is the spent capital.
 
 <h4>Solving approach</h4>
 
