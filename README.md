@@ -25,7 +25,7 @@ $\dfrac{2|V-U|-(V-U)}{10U}$ is the fine for exceeding the math model, and $V$ is
 
 <h4>Solving approach</h4>
 
-A Genetic Algorithm is used to determine a good solution of Portfolio Optimization Problem.
+A Genetic Algorithm is used to determine a good solution of Portfolio Optimization Problem. The proposed Genetic Algorithm is implemented in C# programming language and Microsoft .NET Framework.
 
 <h3>Data description</h3>
 
