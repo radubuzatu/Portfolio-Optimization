@@ -1,0 +1,55 @@
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\bin\Debug\GA_Portofolio.exe
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\bin\Debug\GA_Portofolio.pdb
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.Form1.resources
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.Properties.Resources.resources
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.exe
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.pdb
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.About.resources
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.exe
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.pdb
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\bin\Debug\GA_Portofolio.exe
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\bin\Debug\GA_Portofolio.pdb
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\bin\Debug\office.dll
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\bin\Debug\office.xml
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.About.resources
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.Form1.resources
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.Properties.Resources.resources
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects C#\C#\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.exe
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.pdb
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\bin\Debug\GA_Portofolio.exe
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\bin\Debug\GA_Portofolio.pdb
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\bin\Debug\office.dll
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\bin\Debug\office.xml
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.About.resources
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.Form1.resources
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.Properties.Resources.resources
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Radu\Desktop\Programe Teza\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.exe
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.pdb
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\bin\Debug\GA_Portofolio.exe
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\bin\Debug\GA_Portofolio.pdb
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\bin\Debug\office.dll
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\bin\Debug\office.xml
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.About.resources
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.Form1.resources
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GA_Portofolio.Properties.Resources.resources
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Proiect GenALG\Teza de licenta\Programe Teza Final\GA_Portofolio\GA_Portofolio\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
