@@ -9,7 +9,7 @@ $n$ - total number of financial assets;
 
 $a_i$ - the price of an asset unit $i$;
 
-$x_i^- (x_i^+)$ - the minimum (maximum) number of asset units in the portfolio;
+$x_i^- (x_i^+)$ - the minimum (maximum) number of asset units $i$ in the portfolio;
 
 $x_i$ - the optimization variable, the volume of the asset i, $x_i\in\[x_i^-,x_i^+\]$
 
