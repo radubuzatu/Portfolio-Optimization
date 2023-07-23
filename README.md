@@ -38,10 +38,13 @@ The input data can be easily imported into the program by using the menu.
 <h3>An example of the program</h3>
 
 After starting the program
+
 <img align="center" width="75%" height="75%" src="https://github.com/radubuzatu/Portfolio-Optimization/blob/main/img/portfolio_start.png">
 
 After importing the data
+
 <img align="center" width="75%" height="75%" src="https://github.com/radubuzatu/Portfolio-Optimization/blob/main/img/portfolio_with_data.png">
 
-After starting the program
+After executing the Genetic Algorithm
+
 <img align="center" width="75%" height="75%" src="https://github.com/radubuzatu/Portfolio-Optimization/blob/main/img/portfolio_optimized.png">
